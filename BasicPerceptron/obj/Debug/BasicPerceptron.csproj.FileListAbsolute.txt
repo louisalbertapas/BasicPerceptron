@@ -1,0 +1,9 @@
+C:\Users\lapas\source\repos\BasicPerceptron\BasicPerceptron\bin\Debug\BasicPerceptron.exe.config
+C:\Users\lapas\source\repos\BasicPerceptron\BasicPerceptron\bin\Debug\BasicPerceptron.exe
+C:\Users\lapas\source\repos\BasicPerceptron\BasicPerceptron\bin\Debug\BasicPerceptron.pdb
+C:\Users\lapas\source\repos\BasicPerceptron\BasicPerceptron\obj\Debug\BasicPerceptron.csprojAssemblyReference.cache
+C:\Users\lapas\source\repos\BasicPerceptron\BasicPerceptron\obj\Debug\BasicPerceptron.Form1.resources
+C:\Users\lapas\source\repos\BasicPerceptron\BasicPerceptron\obj\Debug\BasicPerceptron.Properties.Resources.resources
+C:\Users\lapas\source\repos\BasicPerceptron\BasicPerceptron\obj\Debug\BasicPerceptron.csproj.GenerateResource.cache
+C:\Users\lapas\source\repos\BasicPerceptron\BasicPerceptron\obj\Debug\BasicPerceptron.exe
+C:\Users\lapas\source\repos\BasicPerceptron\BasicPerceptron\obj\Debug\BasicPerceptron.pdb
