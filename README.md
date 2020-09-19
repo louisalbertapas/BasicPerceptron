@@ -1,3 +1,5 @@
-A simple perceptron machine learning.
+# Basic Perceptron
 
-This will attempt to learn the AND logic gate
+```
+This is a C# implementation of a perceptron. The perceptron will learn the logic gate "AND".
+```
